@@ -1,0 +1,30 @@
+
+body{
+  background-color:#3498DB;
+}
+
+.main {
+  background-color:#3498DB;
+  direction:rtl;
+  font-family: 'Varela Round',sans-serif;
+ }
+
+footer{
+  background-color:#FFA500;
+  color: #fff;
+  font-size: 1em;
+  height: 20%;
+}
+h1{
+  color:#ECF0F1;
+}
+#electionTime p {
+    display: inline-block;
+    padding: 5px;
+    background: #FFA500;
+    margin: 0 0 20px;
+}
+
+@media query (max-width: 640px) {
+
+}
